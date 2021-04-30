@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// 2. Buatlah program untuk menghitung total pembelian yang harus dibayarkan
-// oleh seorang pelanggan apabisa diketahui kondisi berikut.
+// 2. Buatlah program untuk menghitung total pembelian yang harus dibayarkan oleh seorang pelanggan apabisa diketahui kondisi berikut.
 // Jika jumlah brang > 100 maka diskon = 15% Jika tidak Diskon = 5%
 // Dimana :
 // Input : harga barang, jumlah barang
